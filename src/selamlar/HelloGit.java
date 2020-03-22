@@ -3,7 +3,7 @@ package selamlar;
 public class HelloGit {
 
 	public static void main(String[] args) {
-		System.out.println("Tekrar");
+		System.out.println("Farklý");
 	}
 
 }
